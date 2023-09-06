@@ -12,8 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: ThemeData(
-        // This is the theme of your application.
+      theme: ThemeData(        
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
         // the application has a blue toolbar. Then, without quitting the app,
